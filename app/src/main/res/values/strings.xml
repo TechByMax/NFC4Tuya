@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NFC4Tuya</string>
+    <string name="credentials">Tuya credentials</string>
+    <string name="devices">Tuya Devices</string>
+    <string name="tuya_scenes">Tuya Scenes</string>
+
+    <string name="scenes">Scenes</string>
+
+    <string name="application">application/</string>
+    <string name="error">"Error : "</string>
+
+    <string name="preferences">preferences</string>
+    <string name="credentials_title">Credentials</string>
+    <string name="clientID">clientID</string>
+    <string name="clientID_title">Client ID</string>
+    <string name="secret">secret</string>
+    <string name="secret_title">Client Secret</string>
+    <string name="deviceID">deviceID</string>
+    <string name="deviceID_title">Device ID</string>
+    <string name="uid">uid</string>
+    <string name="uid_title">UID</string>
+    <string name="homeID">homeID</string>
+    <string name="homeID_title">Home ID</string>
+    <string name="sceneID">sceneID</string>
+    <string name="name">name</string>
+    <string name="info">Info</string>
+    <string name="message">Successfully sideloaded the scene into the tag !</string>
+
+    <string name="sideload_message">Scan the tag\n to sideload the scene</string>
+
+    <string name="calculated_title">Calculated</string>
+    <string name="calculate_title">Calculate IDs</string>
+
+    <string name="error_token">Please make sure you entered your Tuya credentials</string>
+    <string name="error_homeID">Please make sure you calculated your UID</string>
+    <string name="error_scenes">Please make sure you calculated your Home ID</string>
+    <string name="error_request">Please make sure your client credentials are correct</string>
+    <string name="error_request_device">Please make sure your client credentials and Device ID are correct</string>
+    <string name="error_request_uid">Please make sure your client credentials and UID are correct</string>
+    <string name="error_request_homeID">Please make sure your client credentials and Home ID are correct</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#121212</color>
+    <color name="whiteActivity">#dedede</color>
+    <color name="darkActivity">#171E24</color>
+    <color name="darkItem">#1C2A35</color>
+    <color name="darkItemDivider">#2F3D48</color>
+    <color name="orange">#ca5900</color>
+    <color name="blue">#0F5D68</color>
+    <color name="white_credentials_title">#E7E7E7</color>
+    <color name="white_credentials">#979797</color>
+</resources>
