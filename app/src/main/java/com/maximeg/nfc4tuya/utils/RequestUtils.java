@@ -71,7 +71,7 @@ public class RequestUtils {
                 .addHeader("sign_method", "HMAC-SHA256")
                 .addHeader("t", timestamp + "")
                 .addHeader("grant_type", 1 + "")
-                .url("https://openapi.tuyaus.com/v1.0/token")
+                .url("https://openapi.tuyaeu.com/v1.0/token")
                 .build();
 
         AsyncTask.execute(new Runnable() {
